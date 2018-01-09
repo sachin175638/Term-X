@@ -33,7 +33,7 @@ do
 		echo "Go and check your storage"
 		sleep 1
 		figlet Done...
-		cd Term-X
+		
 	elif [ $selection -eq 3 ]
 	then
 		cd $HOME
@@ -76,7 +76,7 @@ do
 		echo "you may get into the jail "
 		echo " dont hack govt website "
 		echo "use vpn before attacking"
-                cd $HOME/Term-X
+              
 	elif [ $selection -eq 5 ]
 	then
 		echo "bye tata"
