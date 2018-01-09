@@ -47,7 +47,7 @@ do
 		clear
 		cd $HOME
 		figlet Website hack
-		echoo "scripted by sachin mmct"
+		echo "scripted by sachin mmct"
 		sleep 2
 		echo " USE THIS TOOL ON YOUR OWN RISK>>>..."
 		sleep 2
