@@ -127,7 +127,6 @@ do
 	elif [ $selection -eq 7 ]
 	then	
 		echo "bye tata.."
-		sleep 2
 		echo "this scrtpt created by sachin "
 		echo "Cvil is my branch " 
 		echo "without civil no marine and mechanical" 
