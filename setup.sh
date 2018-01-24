@@ -1,5 +1,6 @@
 #!/bin/bash
 cd $HOME
+pkg install ncurses-utils -y
 apt-get install python2 -y
 apt-get install figlet -y
 git clone https://github.com/sqlmapproject/sqlmap.git
